@@ -1,7 +1,7 @@
 # Hello, I'm Nurick 👋
 
 <p align="center">
-  <img src="" alt="Pacman banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nurickan/nurickan/refs/heads/main/pacman-game-left-and-right-i9zhl3ky1ftgwj6s.gif" alt="Pacman banner" width="100%" />
 </p>
 
 ### About Me
